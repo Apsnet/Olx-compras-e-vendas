@@ -1,0 +1,22 @@
+.foto_item{
+    width:150px;
+    height:200px;
+    text-align:center;
+    margin-right: 10px;
+    float:left;
+}
+.foto_item img{
+    width: 150px;
+}
+
+#body{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+#banner{
+  background: url("../images/banner1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 330px;
+}
